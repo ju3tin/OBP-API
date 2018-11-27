@@ -68,7 +68,7 @@
     <dependency>
       <groupId>ch.qos.logback</groupId>
       <artifactId>logback-classic</artifactId>
-      <version>1.0.9</version>
+      <version>1.2.0</version>
     </dependency>
     <dependency>
       <groupId>org.bouncycastle</groupId>
@@ -129,17 +129,17 @@
     <dependency>
       <groupId>org.seleniumhq.selenium</groupId>
       <artifactId>selenium-java</artifactId>
-      <version>2.46.0</version>
+      <version>3.0.0</version>
     </dependency>
     <dependency>
       <groupId>org.apache.httpcomponents</groupId>
       <artifactId>httpclient</artifactId>
-      <version>4.5</version>
+      <version>4.5.2</version>
     </dependency>
     <dependency>
       <groupId>net.sourceforge.htmlunit</groupId>
       <artifactId>htmlunit</artifactId>
-      <version>2.18</version>
+      <version>2.20</version>
     </dependency>
     <dependency>
       <groupId>com.rabbitmq</groupId>
